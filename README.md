@@ -13,7 +13,10 @@ Using git issue section, add new issue with develop label.
 If you see new issue and you want to `develop` it, you add label `inProgress` and add comment on that issue.
 
 ### Osori library
-> will be updated ...
+|Project Name|developer|sample| 
+|:--- |:---- |:----:|
+|     |      |      |
+|     |      |      | 
 
 ### Pioneer
 > will be updated ...
