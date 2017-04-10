@@ -15,7 +15,7 @@ If you see new issue and you want to `develop` it, you add label `inProgress` an
 ### Osori library
 |Project Name|developer|sample| 
 |:--- |:---- |:----:|
-|     |      |      |
+|ShakeSplashActivity[dude](https://github.com/clucle/ShakeSplashActivity.git)|dude[dude](https://github.com/clucle)|      |
 |     |      |      | 
 
 ### Pioneer
