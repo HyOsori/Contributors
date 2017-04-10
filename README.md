@@ -16,7 +16,7 @@ If you see new issue and you want to `develop` it, you add label `inProgress` an
 |Project Name|developer|sample| 
 |:--- |:---- |:----:|
 |[ShakeSplashActivity](https://github.com/clucle/ShakeSplashActivity.git)|[dude](https://github.com/clucle)|      |
-|     |      |      | 
+|[CustomEllipsizeTextView](https://github.com/JunsuLime/CustomEllipsizeTextview)|[JunsuLime](https://github.com/JunsuLime)|      | 
 
 ### Pioneer
 > will be updated ...
