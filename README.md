@@ -4,7 +4,8 @@ Collection of android open source library made by osories.
 ## Index
 * How to request new open source
 * Osori library
-* Pioneer
+* Osori application
+* Contributor
 
 ## How to request new open source
 
