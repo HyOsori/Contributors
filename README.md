@@ -23,7 +23,7 @@ If you see new issue and you want to `develop` it, you add label `inProgress` an
 ## Osori application
 |Project Name|developer|description|sample| 
 |:--- |:---- |:----|:----:|
-|[Project-Love]() | [sangil10](https://github.com/sangil10), [2015058177](https://github.com/2015058177) | ... | |
+|[Project-Love]() | [sangil10](https://github.com/sangil10), [2015058177](https://github.com/2015058177) | make a calling widget which can be changed  || |
 |[Widget Gallery]() | [Wanjuuuuu](https://github.com/Wanjuuuuu) | ... | |
 
 ## Contributors
