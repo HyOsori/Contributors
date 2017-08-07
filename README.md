@@ -23,8 +23,8 @@ If you see new issue and you want to `develop` it, you add label `inProgress` an
 ## Osori application
 |Project Name|developer|description|sample| 
 |:--- |:---- |:----|:----:|
-|[Project-Love]() | [sangil10](https://github.com/sangil10), [2015058177](https://github.com/2015058177) | ... | |
 |[Widget Gallery]() | [Wanjuuuuu](https://github.com/Wanjuuuuu) |This is an application which helps users able to make their own widget. They can choose the photo they like and edit the text with various kinds of fonts and colours.| |
+|[Sangil Project]() | [Sangil](https://github.com/sangil10)| ... | |
 
 ## Contributors
 * [clucle](https://github.com/clucle)
