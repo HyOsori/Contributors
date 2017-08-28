@@ -24,7 +24,7 @@ If you see new issue and you want to `develop` it, you add label `inProgress` an
 |Project Name|developer|description|sample| 
 |:--- |:---- |:----|:----:|
 |[Widget Gallery]() | [Wanjuuuuu](https://github.com/Wanjuuuuu) |This is an application which helps users able to make their own widget. They can choose the photo they like and edit the text with various kinds of fonts and colours.| |
-|[Sangil Project]() | [Sangil](https://github.com/sangil10)| ... | |
+|[Sangil Project]() | [Sangil](https://github.com/sangil10)| When you call, this application helps you to put number with finding the number as a background | |
 |[Grow-Celub]() | [Eunjeong](https://github.com/dms613412)|This is an application which can move, grow and change some celub's pictures.| |
 
 ## Contributors
