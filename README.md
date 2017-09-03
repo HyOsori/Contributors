@@ -23,7 +23,7 @@ If you see new issue and you want to `develop` it, you add label `inProgress` an
 ## Osori application
 |Project Name|developer|description|sample| 
 |:--- |:---- |:----|:----:|
-|[Widget Gallery](https://github.com/Wanjuuuuu/GalleryWidget) | [Wanjuuuuu](https://github.com/Wanjuuuuu) |This is an application which helps users able to make their own widget. They can put a photo and a text together in one widget. It enables to edit the text with various kinds of fonts,alignments and color.| Later will be added... |
+|[Widget Gallery](https://github.com/Wanjuuuuu/GalleryWidget) | [Wanjuuuuu](https://github.com/Wanjuuuuu) |This is an application which helps users able to make their own widget. They can put a photo and a text together in one widget. It enables to edit the text with various kinds of fonts,alignments and colors.| ![image](/GalleryWidget_sample6.PNG)|
 |[Sangil Project]() | [Sangil](https://github.com/sangil10)| ... | |
 
 ## Contributors
