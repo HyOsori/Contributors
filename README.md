@@ -23,7 +23,7 @@ If you see new issue and you want to `develop` it, you add label `inProgress` an
 ## Osori application
 |Project Name|developer|description|sample| 
 |:--- |:---- |:----|:----:|
-|[Widget Gallery]() | [Wanjuuuuu](https://github.com/Wanjuuuuu) |This is an application which helps users able to make their own widget. They can choose the photo they like and edit the text with various kinds of fonts and colours.| |
+|[Widget Gallery](https://github.com/Wanjuuuuu/GalleryWidget) | [Wanjuuuuu](https://github.com/Wanjuuuuu) |This is an application which helps users able to make their own widget. They can put a photo and a text together in one widget. It enables to edit the text with various kinds of fonts,alignments and colors.| ![image](/GalleryWidget_sample6.PNG)|
 |[Sangil Project]() | [Sangil](https://github.com/sangil10)| When you call, this application helps you to put number with finding the number as a background | |
 |[Grow-Celub]() | [Eunjeong](https://github.com/dms613412)|This is an application which can move, grow and change some celub's pictures.| |
 |[Woojaes]() | [2015058177](https://github.com/2015058177)|This is an application which can check your time of conversation more romantic | |
