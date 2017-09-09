@@ -29,11 +29,7 @@ If you see new issue and you want to `develop` it, you add label `inProgress` an
 
 
 ## Contributors
-* [clucle](https://github.com/clucle)
-* [sangil10](https://github.com/sangil10)
-* [2015058177](https://github.com/2015058177)
-* [Wanjuuuuu](https://github.com/Wanjuuuuu)
-* [JunsuLime](https://github.com/JunsuLime)
+   [Eunjeong](https://github.com/dms613412), [sangil10](https://github.com/sangil10), [2015058177](https://github.com/2015058177), [Wanjuuuuu](https://github.com/Wanjuuuuu), [JunsuLime](https://github.com/JunsuLime)
 
 ## License
 ```
