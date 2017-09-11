@@ -16,7 +16,7 @@ If you see new issue and you want to `develop` it, you add label `inProgress` an
 ## Osori library
 |Project Name|developer|description|sample| 
 |:--- |:---- |:----|:----:|
-|[CustomEllipsizeTextView](https://github.com/JunsuLime/CustomEllipsizeTextview)|[JunsuLime](https://github.com/JunsuLime)|     | | 
+|[DepthFreeRadioGroup](https://github.com/JunsuLime/Android-DepthFreeRadioGroup)|[JunsuLime](https://github.com/JunsuLime)|     | | 
 |[SectionAdapter](https://github.com/JunsuLime/Android-RecyclerView-SectionAdapter)|[JunsuLime](https://github.com/JunsuLime)|ListView and ReclerView Adapter for well sectioned view|<img src="https://cloud.githubusercontent.com/assets/17852124/26761885/aae1ed72-4972-11e7-8a7f-912624c86c66.png" width=240/> |
 
 ## Osori application
