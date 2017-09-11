@@ -16,7 +16,7 @@ If you see new issue and you want to `develop` it, you add label `inProgress` an
 ## Osori library
 |Project Name|developer|description|sample| 
 |:--- |:---- |:----|:----:|
-|[DepthFreeRadioGroup](https://github.com/JunsuLime/Android-DepthFreeRadioGroup)|[JunsuLime](https://github.com/JunsuLime)|     | | 
+|[DepthFreeRadioGroup](https://github.com/JunsuLime/Android-DepthFreeRadioGroup)|[JunsuLime](https://github.com/JunsuLime)| RadioGroup that don't consider children RadioButton's layout depth | <img src="https://user-images.githubusercontent.com/17852124/30262428-d8f3e080-970b-11e7-9ab2-c404fcfafd9a.png" width=240/>| 
 |[SectionAdapter](https://github.com/JunsuLime/Android-RecyclerView-SectionAdapter)|[JunsuLime](https://github.com/JunsuLime)|ListView and ReclerView Adapter for well sectioned view|<img src="https://cloud.githubusercontent.com/assets/17852124/26761885/aae1ed72-4972-11e7-8a7f-912624c86c66.png" width=240/> |
 
 ## Osori application
